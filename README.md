@@ -4,37 +4,27 @@ A collection of AI and utility projects hosted by **Ujk-droid**.
 
 ---
 
-## 📁 [aiagent1](https://github.com/Ujk-droid/aiagent1.git)
+## 📁 [aiagent1](https://github.com/Ujk-droid/aiagent1)
 
 > An AI agent project, possibly implementing intelligent behaviors or services.
 
-- **Repository URL:** `https://github.com/Ujk-droid/aiagent1.git`
-- **Features:**
-  - AI-driven components
-  - Intelligent automation logic
-  - Custom agent logic (details depend on code)
+- **Repository URL:** [https://github.com/Ujk-droid/aiagent1](https://github.com/Ujk-droid/aiagent1)
 
 ---
 
-## 📁 [aipro2q4](https://github.com/Ujk-droid/aipro2q4.git)
+## 📁 [aipro2q4](https://github.com/Ujk-droid/aipro2q4)
 
 > Likely part of an AI programming assignment or project (e.g., PRO2 Question 4).
 
-- **Repository URL:** `https://github.com/Ujk-droid/aipro2q4.git`
-- **Features:**
-  - Focused implementation, possibly an algorithm solution
-  - Cleanly structured for learning or demonstration
+- **Repository URL:** [https://github.com/Ujk-droid/aipro2q4](https://github.com/Ujk-droid/aipro2q4)
 
 ---
 
-## 📁 [srcpak](https://github.com/Ujk-droid/srcpak.git)
+## 📁 [srcpak](https://github.com/Ujk-droid/srcpak)
 
-> A general-purpose or supporting utility project (e.g., source package or modular library).
+> A general-purpose or supporting utility project.
 
-- **Repository URL:** `https://github.com/Ujk-droid/srcpak.git`
-- **Features:**
-  - Could contain reusable source code modules
-  - Utility functions or helpers used in other projects
+- **Repository URL:** [https://github.com/Ujk-droid/srcpak](https://github.com/Ujk-droid/srcpak)
 
 ---
 
@@ -44,4 +34,4 @@ A collection of AI and utility projects hosted by **Ujk-droid**.
 
 ---
 
-Feel free to clone, explore, or contribute to any of the projects!
+Feel free to explore or contribute to any of these projects!
