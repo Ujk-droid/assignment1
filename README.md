@@ -28,6 +28,14 @@ A collection of AI and utility projects hosted by **Ujk-droid**.
 
 ---
 
+## 📁 [gemini](https://github.com/Ujk-droid/gemini)
+
+> A project possibly involving advanced AI models or Gemini-based utilities.
+
+- **Repository URL:** [https://github.com/Ujk-droid/gemini](https://github.com/Ujk-droid/gemini)
+
+---
+
 ### 📌 Author
 
 - GitHub: [Ujk-droid](https://github.com/Ujk-droid)
